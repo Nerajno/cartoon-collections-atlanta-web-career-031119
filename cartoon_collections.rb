@@ -20,7 +20,7 @@ def long_planeteer_calls(arr)
   # Your code here
   arr.any? do  |element|
     element.length >= 4
-    
+
 end
 
 def find_the_cheese# code an argument here
